@@ -41,11 +41,13 @@
 
 //task3
 
-//int a = 5;
-//int b = 8;
-//a = ++a;
-//b = --b;
-//Console.WriteLine( a);
+//int a = 8;
+//int b = 5;
+//int c = a;
+//int d = b;
+//a = d;
+//b = c;
+//Console.WriteLine(a);
 //Console.WriteLine(b);
 
 
